@@ -1,4 +1,4 @@
-var ss = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/1L65mcjgdTJYRZuALFXMma6ztDR-kCoX_oxDLWHKfNlo/edit#gid=1702837499");
+var ss = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/");
 var sheet = ss.getSheetByName("pml");
 
 function doGet(e){
