@@ -1,4 +1,4 @@
-var ss = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/1QWBOmPnEY--1UAPJH1ENIqlICtOQqlCTxpGcBXsJ-og/edit#gid=1958682836");
+var ss = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/1QWBOmPnEY-");
 var sheet = ss.getSheetByName("pcl");
 
 function doGet(e){
