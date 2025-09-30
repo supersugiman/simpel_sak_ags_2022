@@ -1,4 +1,4 @@
-var ss = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/19cKuaMTDEfaNAWOSB4UqE6wmjqFRlIJ9QUrVsgDKWW8/edit#gid=1040770888");
+var ss = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/");
 var sheet = ss.getSheetByName("sls");
 
 function doGet(e){
